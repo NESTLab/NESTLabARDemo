@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Janani" size="0.420000 0.735000" />
+    <ImageTarget name="Nathalie2" size="0.390000 0.381113" />
+    <ImageTarget name="Nathalie1" size="0.390000 0.760941" />
+    <ImageTarget name="Squishy2" size="0.072000 0.127834" />
+    <ImageTarget name="Squishy1" size="0.071000 0.126276" />
+    <ImageTarget name="Seggregation" size="0.210000 0.206887" />
+    <ImageTarget name="kilobots" size="0.270000 0.180000" />
+  </Tracking>
+</QCARConfig>
